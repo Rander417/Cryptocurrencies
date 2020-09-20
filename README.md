@@ -13,7 +13,7 @@ Used Principal Component Analysis to reduce the dimensions down to the suggest (
 
 <b>Clustering the cryptocurrencies using K-means</b><br>
 Using Intertia & and Elbow to determine that the approriate K=4 for clustering<br>
-![](readme_images/elbow.png)
+![](readme_images/Elbow.png)
 
 Then created a new summary Dataframe with the cryptocurrency information and the PCA values<br>
 ![](readme_images/summaryFrame.png)
